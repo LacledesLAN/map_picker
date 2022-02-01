@@ -178,7 +178,7 @@ const games = [
           },
           {
             "id": "icebox",
-            "image": "./assets/images/map_picker/valorant/nuke.png",
+            "image": "./assets/images/map_picker/valorant/icebox.png",
             "action": "default",
             "selectedOrder":  ""
           },
