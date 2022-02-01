@@ -1,11 +1,11 @@
 const games = [
-      {
-        "id": 0,
-        "name": "CSGO",
-        "background_image": "./assets/images/map_picker/csgo/logo_background.jpg",
-        "logo": "./assets/images/map_picker/csgo/logo_white.png",
-        "url": "./mapPicker-gameSelector.html?gameID=0&rounds=3",
-        "gameMapList": [
+  {
+    "id": 0,
+    "name": "CSGO",
+    "background_image": "./assets/images/map_picker/csgo/logo_background.jpg",
+    "logo": "./assets/images/map_picker/csgo/logo_white.png",
+    "url": "./mapPicker-gameSelector.html?gameID=0&rounds=3",
+    "gameMapList": [
           {
             "id": "dust_II",
             "image": "./assets/images/map_picker/csgo/Dust_II.jpg",
@@ -49,8 +49,8 @@ const games = [
             "selectedOrder":  ""
           }
         ],
-        "columns": null
-      },
+    "columns": null
+   },
 
   {
     "id": 1,
@@ -150,6 +150,51 @@ const games = [
       { "id": 3, "name": "HYBRID", "maxSelection": 1, "maxBan": 2},
       { "id": 4, "name": "ESCORT", "maxSelection": 1, "maxBan" : 2},
         ]
-      }
-
+  },
+  {
+    "id": 2,
+    "name": "Valorant",
+    "background_image": "./assets/images/map_picker/valorant/logo_background.jpg",
+    "logo": "./assets/images/map_picker/valorant/logo_black.png",
+    "url": "./mapPicker-gameSelector.html?gameID=2&rounds=3",
+    "gameMapList": [
+          {
+            "id": "ascent",
+            "image": "./assets/images/map_picker/valorant/ascent.png",
+            "action": "default",
+            "selectedOrder":  ""
+          },
+          {
+            "id": "bind",
+            "image": "./assets/images/map_picker/valorant/bind.png",
+            "action": "default",
+            "selectedOrder":  ""
+          },
+          {
+            "id": "breeze",
+            "image": "./assets/images/map_picker/valorant/breeze.png",
+            "action": "default",
+            "selectedOrder":  ""
+          },
+          {
+            "id": "icebox",
+            "image": "./assets/images/map_picker/valorant/nuke.png",
+            "action": "default",
+            "selectedOrder":  ""
+          },
+          {
+            "id": "haven",
+            "image": "./assets/images/map_picker/valorant/haven.png",
+            "action": "default",
+            "selectedOrder":  ""
+          },
+          {
+            "id": "split",
+            "image": "./assets/images/map_picker/valorant/split.png",
+            "action": "default",
+            "selectedOrder":  ""
+          }
+        ],
+    "columns": null
+   },
 ];
