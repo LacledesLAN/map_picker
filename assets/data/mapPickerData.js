@@ -67,8 +67,29 @@ const games = [
         "columnID": 1,
       },
       {
-        "id": "hanamura",
-        "image": "./assets/images/map_picker/overwatch/hanamura.jpg",
+        "id": "nepal",
+        "image": "./assets/images/map_picker/overwatch/nepal.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 1,
+      },
+      {
+        "id": "oasis",
+        "image": "./assets/images/map_picker/overwatch/oasis.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 1,
+      },
+      {
+        "id": "antarctic",
+        "image": "./assets/images/map_picker/overwatch/antarctic.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 1,
+      },
+      {
+        "id": "newqueenstreet",
+        "image": "./assets/images/map_picker/overwatch/newqueenstreet.jpg",
         "action": "default",
         "selectedOrder": "",
         "columnID": 2
@@ -95,8 +116,8 @@ const games = [
         "columnID": 1
       },
       {
-        "id": "volskaya",
-        "image": "./assets/images/map_picker/overwatch/volskaya.jpg",
+        "id": "esperanca",
+        "image": "./assets/images/map_picker/overwatch/esperanca.jpg",
         "action": "default",
         "selectedOrder": "",
         "columnID": 2
@@ -104,6 +125,34 @@ const games = [
       {
         "id": "blizzardworld",
         "image": "./assets/images/map_picker/overwatch/blizzardworld.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 3
+      },
+      {
+        "id": "numbani",
+        "image": "./assets/images/map_picker/overwatch/numbani.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 3
+      },
+      {
+        "id": "eichenwalde",
+        "image": "./assets/images/map_picker/overwatch/eichenwalde.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 3
+      },
+      {
+        "id": "midtown",
+        "image": "./assets/images/map_picker/overwatch/eichenwalde.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 3
+      },
+      {
+        "id": "Paraiso",
+        "image": "./assets/images/map_picker/overwatch/paraiso.jpg",
         "action": "default",
         "selectedOrder": "",
         "columnID": 3
@@ -123,8 +172,8 @@ const games = [
         "columnID": 1
       },
       {
-        "id": "anubis",
-        "image": "./assets/images/map_picker/overwatch/anubis.jpg",
+        "id": "colosseo",
+        "image": "./assets/images/map_picker/overwatch/colosseo.jpg",
         "action": "default",
         "selectedOrder": "",
         "columnID": 2
@@ -142,11 +191,46 @@ const games = [
         "action": "default",
         "selectedOrder": "",
         "columnID": 4
-      }
+      },
+      {
+        "id": "circuitroyal",
+        "image": "./assets/images/map_picker/overwatch/circuitroyal.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 4
+      },
+      {
+        "id": "dorado",
+        "image": "./assets/images/map_picker/overwatch/dorado.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 4
+      },
+      {
+        "id": "rialto",
+        "image": "./assets/images/map_picker/overwatch/rialto.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 4
+      },
+      {
+        "id": "gibraltar",
+        "image": "./assets/images/map_picker/overwatch/gibraltar.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 4
+      },
+      {
+        "id": "shambali",
+        "image": "./assets/images/map_picker/overwatch/shambali.jpg",
+        "action": "default",
+        "selectedOrder": "",
+        "columnID": 4
+      },
     ],
     "columns": [
       { "id": 1, "name": "CONTROL", "maxSelection": 2, "maxBan": 1},
-      { "id": 2, "name": "ASSAULT", "maxSelection": 1, "maxBan": 2},
+      { "id": 2, "name": "PUSH", "maxSelection": 1, "maxBan": 2},
       { "id": 3, "name": "HYBRID", "maxSelection": 1, "maxBan": 2},
       { "id": 4, "name": "ESCORT", "maxSelection": 1, "maxBan" : 2},
         ]
