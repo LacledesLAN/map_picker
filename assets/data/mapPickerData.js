@@ -145,13 +145,13 @@ const games = [
       },
       {
         "id": "midtown",
-        "image": "./assets/images/map_picker/overwatch/eichenwalde.jpg",
+        "image": "./assets/images/map_picker/overwatch/midtown.jpg",
         "action": "default",
         "selectedOrder": "",
         "columnID": 3
       },
       {
-        "id": "Paraiso",
+        "id": "paraiso",
         "image": "./assets/images/map_picker/overwatch/paraiso.jpg",
         "action": "default",
         "selectedOrder": "",
