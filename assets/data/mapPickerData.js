@@ -7,8 +7,8 @@ const games = [
     "url": "./mapPicker-gameSelector.html?gameID=0&rounds=3",
     "gameMapList": [
           {
-            "id": "dust_II",
-            "image": "./assets/images/map_picker/csgo/Dust_II.jpg",
+            "id": "nuke",
+            "image": "./assets/images/map_picker/csgo/nuke.jpg",
             "action": "default",
             "selectedOrder":  ""
           },
@@ -25,8 +25,8 @@ const games = [
             "selectedOrder":  ""
           },
           {
-            "id": "nuke",
-            "image": "./assets/images/map_picker/csgo/Nuke.jpg",
+            "id": "ancient",
+            "image": "./assets/images/map_picker/csgo/Ancient.jpg",
             "action": "default",
             "selectedOrder":  ""
           },
@@ -37,8 +37,8 @@ const games = [
             "selectedOrder":  ""
           },
           {
-            "id": "train",
-            "image": "./assets/images/map_picker/csgo/Train.jpg",
+            "id": "anubis",
+            "image": "./assets/images/map_picker/csgo/Anubis.jpg",
             "action": "default",
             "selectedOrder":  ""
           },
