@@ -249,14 +249,20 @@ const games = [
             "selectedOrder":  ""
           },
           {
-            "id": "bind",
-            "image": "./assets/images/map_picker/valorant/bind.png",
+            "id": "lotus",
+            "image": "./assets/images/map_picker/valorant/lotus.png",
             "action": "default",
             "selectedOrder":  ""
           },
           {
-            "id": "breeze",
-            "image": "./assets/images/map_picker/valorant/breeze.png",
+            "id": "pearl",
+            "image": "./assets/images/map_picker/valorant/pearl.png",
+            "action": "default",
+            "selectedOrder":  ""
+          },
+          {
+            "id": "fracture",
+            "image": "./assets/images/map_picker/valorant/fracture.png",
             "action": "default",
             "selectedOrder":  ""
           },
